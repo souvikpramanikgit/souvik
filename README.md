@@ -25,24 +25,6 @@
 <br> <br>
 <br> <br> <br>
 
-<!-- ## GSSOC(24) Badges --> 
-
-<!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://drive.google.com/file/d/1KhsTLIpCwrq6E_TYVPomwUzbsFcIPwtC/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="120px" height="120px" />
-  </a>
-</div> -->
-
-
 ## Holophin Badges - Hactoberfest 2024 
 [![An image of @souvikpramanikgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikpramanikgit)](https://holopin.io/@souvikpramanikgit)
 
